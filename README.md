@@ -35,11 +35,14 @@ Actualmente me encuentro capacitándome como Analista de datos.
 - [Data Analysis](https://github.com/pablongrs/PI02-Siniestros-viales)
 - [Data Engineering](https://github.com/pablongrs/PI-MLOps_Steam)
   
-###
+### Contacto
 
 <div align="left">
+  <a href="mailto:Nogueraspablo10@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=flat" height="25" alt="Gmail logo" />
+  </a>
   <a href="https://www.linkedin.com/in/pablo-nogueras15/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="20" alt="LinkedIn logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="LinkedIn logo" />
   </a>
 </div>
 
