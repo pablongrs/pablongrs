@@ -29,7 +29,7 @@ Actualmente me encuentro capacitándome como Analista de datos.
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablongrs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false"/>
 </div>
 
-### Proyectos
+### Algunos Proyectos
 
 - [Data Engineering & Data Analysis](https://github.com/pablongrs/NYC_TAXIS-CO2)
 - [Data Analysis](https://github.com/pablongrs/PI02-Siniestros-viales)
