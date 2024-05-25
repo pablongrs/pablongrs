@@ -6,8 +6,9 @@
 
 ###
 
-<p align="left">
-### Sobre Mi<br>- 🎂 Tengo 24 años, soy de Buenos Aires, Argentina.
+
+### Sobre Mi
+ <br>- 🎂 Tengo 24 años, soy de Buenos Aires, Argentina.
 <br>- 📚 Estudie durante 2 años Analista en informatica.
 <br>- 📫 Para contactarme: Nogueraspablo10@gmail.com</p>
 
