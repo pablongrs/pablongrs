@@ -1,10 +1,10 @@
 <h1 align="left">👋 Hola, soy Pablo! Bienvenido a mi repositorio.</h1>
 
 
-<p align="left">Actualmente me encuentro capacitandome como Analista de datos.</p>
+Actualmente me encuentro capacitandome como Analista de datos.
 
 
-<h3> Sobre mí </h3>
+### Sobre mi
 <br>- 🎂 Tengo 24 años, soy de Buenos Aires, Argentina.
 <br>- 📚 Estudie durante 2 años Analista en informatica.
 <br>- 📫 Para contactarme: Nogueraspablo10@gmail.com</p>
@@ -12,8 +12,6 @@
 
 
 <h3>Tecnologias</h3>
-
-###
 
 - 💻 &nbsp;
  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -30,15 +28,11 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-
-###
-
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pablongrs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablongrs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="145" alt="languages graph"  />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pablongrs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablongrs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false"/>
 </div>
 
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/pablo-nogueras15/" target="_blank">
