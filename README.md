@@ -27,7 +27,13 @@ Actualmente me encuentro capacitándome como Analista de datos.
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pablongrs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false"/>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablongrs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false"/>
 </div>
-<br>
+
+### Proyectos
+
+- [Data Engineering & Data Analysis](https://github.com/pablongrs/NYC_TAXIS-CO2)
+- [Data Analysis](https://github.com/pablongrs/PI02-Siniestros-viales)
+- [Data Engineering](https://github.com/pablongrs/PI-MLOps_Steam)
+
 <div align="left">
   <a href="https://www.linkedin.com/in/pablo-nogueras15/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="22" alt="LinkedIn logo" />
