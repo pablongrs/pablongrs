@@ -1,20 +1,17 @@
-<h2 align="left">👋 Hola, soy Pablo! Bienvenido a mi repositorio.</h2>
+<h1 align="left">👋 Hola, soy Pablo! Bienvenido a mi repositorio.</h1>
 
-###
 
 <p align="left">Actualmente me encuentro capacitandome como data analyst. En busca de  una oportunidad donde pueda aplicar mis conociemientos.</p>
 
-###
-
 
 ### Sobre Mi
- <br>- 🎂 Tengo 24 años, soy de Buenos Aires, Argentina.
+<br>- 🎂 Tengo 24 años, soy de Buenos Aires, Argentina.
 <br>- 📚 Estudie durante 2 años Analista en informatica.
 <br>- 📫 Para contactarme: Nogueraspablo10@gmail.com</p>
 
-###
 
-<h3 align="left">Tecnologias</h3>
+
+<h3>Tecnologias</h3>
 
 ###
 
