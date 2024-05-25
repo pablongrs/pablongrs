@@ -15,7 +15,7 @@ Actualmente me encuentro capacitándome como Analista de datos.
   ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
   ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
-  ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAACG0lEQVR4nG2TTUiTcRjHfzO7M/N2u9l8xnZnEmA3RbSEi7K0FBAUfaIAsBAUwQbQXUeRG1Ckqiu2GmgXQQlbUEUNBQaJ9LQzllRi8HKLlbF0M95M7szvbdPYcOZe6Gl9RnP83/n2Oee+5xzzU1BYHmUYTdmDml4GgWPaPA7PQV8hC1CoXQw3HgpaLjlg5anFPyRCd2sdzJwXZGupTAYv4z6ha48d0IR8PlQ/biPAUnhvD9F7nJ+/DjrUgtgJ1Hz24DC11PscsH+Cx5ntVCwm3Bb4X2SAHwMZnmYPFkiBL2LZwM8W4yRBQkJ+jDB+LyOeF8G/GeMmPO3WwoqesO5HB+/6KBCs4E2ExyHnVtFtC3BpNTLf3T8+YfUs5QXJ5eWp16iAho1NsHtfMXYNHqE5rdyDLR8TdPL9P6ouEhgXRmGxhFSjC/OFeghNe1WtfDapf2F3M4BmslN7M1YzjsXX1n+d/PACdmLsx2+zTBjD4COaLjC/PxomAwmzpYpWzAGizMKubFCy/dPCgjwvAKjMww7Fy1ApvIBNGgrxGGr9ww4etMmGHn3E9myq8INjMFnrXAbF9kzKchLsXso6CF8Uyqx5/4oEGYjl1C5S4hLXTHT3eITN34sCoEChUOQ6DWiXUj5tkEMWmuGrJxA5mceyOxOtl/E1H6QbRf4fyXBnWgxJ8JG84HpsowgXtJzT/v7OeFOIhA83ZFxMX/B1TY8ILyEYtMeIKLZgJ9iZV5JcZ4Bb/zXp6ROmy24dDPE/nTQRGraNTC5jOlF0+ikZc3T0zs0hrKFF9B22t8HZy5oa2Cq7LPnOefF5thMj5XV6hKa/b5nKoLf/RYq7wZfofDFpA7hOCAAAAAElFTkSuQmCC)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
   ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
 
