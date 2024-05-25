@@ -36,10 +36,10 @@ Actualmente me encuentro capacitándome como Analista de datos.
 - [Data Engineering](https://github.com/pablongrs/PI-MLOps_Steam)
   
 ###
-<br>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/pablo-nogueras15/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="16" alt="LinkedIn logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="20" alt="LinkedIn logo" />
   </a>
 </div>
 
