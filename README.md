@@ -17,6 +17,7 @@ Actualmente me encuentro capacitándome como Analista de datos.
   ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
   ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
+  ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
 
 - ⚙️ &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
